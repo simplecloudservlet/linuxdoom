@@ -1,11 +1,14 @@
 
+Lets compile Linux Doom in Ubuntu
+
 I read this post (https://www.deusinmachina.net/p/lets-compile-linux-doom) and
 then I tried to follow it to compile in a recent Ubuntu. After some attempts, it worked and then
 I am sharing with you.
 
 Tested in:
--Ubuntu 16.04.y LTS
--Ubuntu 22.04.3 LTS (VirtualBox)
+
+* Ubuntu 16.04.y LTS
+* Ubuntu 22.04.3 LTS (VirtualBox 5.1.38_Ubuntu r122592)
 
 The Setup:
 
