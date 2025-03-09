@@ -23,7 +23,7 @@ $ make
 ```
 
 ---
-gcc   -g -Wall -DNORMALUNIX -DLINUX  -c doomdef.c -o linux/doomdef.o
+> gcc   -g -Wall -DNORMALUNIX -DLINUX  -c doomdef.c -o linux/doomdef.o
 Assembler messages:
 Erro fatal: não pode criar linux/doomdef.o: Arquivo ou diretório não encontrado
 Makefile:91: recipe for target 'linux/doomdef.o' failed
