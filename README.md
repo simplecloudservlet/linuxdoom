@@ -11,12 +11,16 @@ The Setup:
 
 1) Get the source code:
 
+```
 $ git clone https://github.com/id-Software/DOOM
+```
 
 2) Start compile:
 
+```
 $ cd DOOM/linuxdoom-1.10
 $ make
+```
 
 ---
 gcc   -g -Wall -DNORMALUNIX -DLINUX  -c doomdef.c -o linux/doomdef.o
@@ -28,11 +32,15 @@ make: *** [linux/doomdef.o] Error 1
 
 3) You need to create 'linux' directory:
 
+```
 $ mkdir linux
+```
 
 4) Try 'make' again:
 
+```
 $ make
+```
 
 ---
 i_video.c:49:20: fatal error: errnos.h: Arquivo ou diretório não encontrado
