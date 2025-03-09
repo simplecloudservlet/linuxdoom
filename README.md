@@ -1,5 +1,5 @@
 
-Lets compile Linux Doom in Ubuntu
+# Lets compile Linux Doom in Ubuntu
 
 I read this post (https://www.deusinmachina.net/p/lets-compile-linux-doom) and
 then I tried to follow it to compile in a recent Ubuntu. After some attempts, it worked and then
